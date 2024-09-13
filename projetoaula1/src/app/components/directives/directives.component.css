@@ -1,0 +1,11 @@
+.small-title{
+    font-size:12px ;
+
+}
+.green-title{
+    background-color: lightgreen;
+    color: green;
+}
+.underline-title{
+    text-decoration-line: underline;
+}

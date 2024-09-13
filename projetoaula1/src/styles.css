@@ -6,3 +6,9 @@
 body{
     background-color:lavender;
 }
+a{
+    color: orangered;
+    font-family: sans-serif;
+    text-decoration: wavy;
+    text-decoration-line: underline;
+}

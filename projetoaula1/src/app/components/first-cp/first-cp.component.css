@@ -1,3 +1,9 @@
 h2{
     color: yellowgreen;
 }
+a{
+    background-color: black;
+    color: aliceblue;
+    text-decoration: line-through;
+    text-decoration-line: overline;
+}
