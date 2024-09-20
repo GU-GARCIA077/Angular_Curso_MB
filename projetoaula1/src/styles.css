@@ -5,10 +5,17 @@
 }
 body{
     background-color:lavender;
+    padding-bottom: 500px;
 }
 a{
     color: orangered;
     font-family: sans-serif;
     text-decoration: wavy;
     text-decoration-line: underline;
+}
+.class{
+    border-bottom: 1px solid red;
+    padding: 2em;
+    margin-bottom: 1em;
+    
 }

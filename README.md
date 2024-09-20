@@ -1,7 +1,7 @@
 # Angular_Curso_MB
 iniciando estudo do angular framework
 
-#TECNOLOGIAS UTILIZADAS
+# TECNOLOGIAS UTILIZADAS
 -HTML
 -CSS
 -JS
@@ -37,3 +37,20 @@ ou inicializa no componente.ts e chama no html
 
 [ngClass]="classes" 
 cria classes na tag html, para isso inicialize no componente.ts e chame no html.
+
+aula 09:
+renderização condicional
+diretiva ngif;
+
+aula 10:
+Eventos
+mais utilizado é o click:
+(click)="algumaFuncao()"
+Os métodos ficam na classe;
+dá pra utilizar para acessar API;
+
+aula 11:
+comunicar eventos de um componente filho para o pai;
+@output faz a saida do evento do componente filho;
+na tag de invocação do compoinente no template, escolhemos um método para executar quando o evento for emitido;
+exemplo: (emit)="onEmit()"
